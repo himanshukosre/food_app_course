@@ -1,4 +1,4 @@
-# food_course
+# Food Delivery App
 
 A new Flutter application.
 
